@@ -20,7 +20,7 @@ class BaseApp extends StatelessWidget {
       body: body,
       floatingActionButton: actionButton,
       drawer: Drawer(
-        backgroundColor: Colors.lightGreen,
+        backgroundColor: Colors.green,
         child: ListView(
           children: [
             Padding(
@@ -157,7 +157,6 @@ class BaseApp extends StatelessWidget {
                         )
                       ],
                     ),
-
                     textAlign: TextAlign.center,),
                   onTap: () => Navigator.of(context).pushNamed('/author_list'),
                 ),
