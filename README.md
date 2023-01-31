@@ -7,9 +7,9 @@ Respecto al examen aun que la plantilla era buena mis conocimientos son escasos 
 
 Mientras hacia la vista he pensado que podria tener la lista de despesas ingresos y demas en la pantalla prinipal(escroleable), el problema es que nose como hacerlo. 
 
-Tambien arriba a la izquierda el progreso el cual pues obviamente falta la parte de los calculos y datos detras de la app,
+Tambien arriba a la izquierda el progreso el cual pues obviamente falta la parte de los calculos y datos detras de la app.
 
-Tambien esta a la parte arriba derecha para el objetivo el cual faltaria poder modificarlo 
+Tambien esta a la parte arriba derecha para el objetivo el cual faltaria poder modificarlo. 
 
 Tambien arriba a la izquierda el drawer lo he modificado visualmente, este lleva a otra vista donde se pueden añadir cosas y editar, las cuales saldran como lista en esa misma pagina pero ya esta. 
 
