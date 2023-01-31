@@ -1,16 +1,17 @@
-# crud_framework
+# EXAMEN ESTALVI
 
-A new Flutter project.
+Hola Carles, nose si leeras esto pero espero que si.
+Si sale el jordi de contribuidor es por que he usado una plantilla que me ha dado. He creado una branch un repositorio nuevo como puedes ver asi que si sale sera por que he usado esa plantilla.
 
-## Getting Started
+Respecto al examen aun que la plantilla era buena mis conocimientos son escasos sobre el CRUD aun asi estos dias haciendo el proyecto he aprendido al fin todo el tema de la estructura a la hora de hacer la vista.
 
-This project is a starting point for a Flutter application.
+Mientras hacia la vista he pensado que podria tener la lista de despesas ingresos y demas en la pantalla prinipal(escroleable), el problema es que nose como hacerlo. 
 
-A few resources to get you started if this is your first Flutter project:
+Tambien arriba a la izquierda el progreso el cual pues obviamente falta la parte de los calculos y datos detras de la app,
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tambien esta a la parte arriba derecha para el objetivo el cual faltaria poder modificarlo 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tambien arriba a la izquierda el drawer lo he modificado visualmente, este lleva a otra vista donde se pueden añadir cosas y editar, las cuales saldran como lista en esa misma pagina pero ya esta. 
+
+
+Saludos!
