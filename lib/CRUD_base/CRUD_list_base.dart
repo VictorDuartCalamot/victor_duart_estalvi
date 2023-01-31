@@ -30,12 +30,20 @@ class _CRUDListBaseState<T extends Item> extends State<CRUDListBase<T>> {
     ];
 
     return Scaffold(
-      body: items.isEmpty?
-          const Center(child: Text("No hi ha dades"),)
+      body: Container(
+        decoration: const BoxDecoration(
+          image: DecorationImage(
+            image: AssetImage('lib/images/estalviem.jpg'),
+            fit: BoxFit.cover,
+          ),
+        ),
+        child: items.isEmpty?
+      const Center(child: Text("No hi ha dades"),)
           : ListView(
         children: items,
-      ),
-      floatingActionButton: Row(
+      ),),
+
+        floatingActionButton: Row(
         mainAxisAlignment: MainAxisAlignment.end,
         children: [
           FloatingActionButton(
